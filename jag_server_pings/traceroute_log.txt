@@ -1,0 +1,93 @@
+
+Summary for oldschool6.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool7.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool13.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 68 ms
+
+Summary for oldschool15.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 68 ms
+
+Summary for oldschool19.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 74 ms
+
+Summary for oldschool20.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 65 ms
+
+Summary for oldschool23.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool24.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
+
+Summary for oldschool31.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool32.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
+
+Summary for oldschool38.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool39.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
+
+Summary for oldschool40.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
+
+Summary for oldschool47.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 64 ms
+
+Summary for oldschool48.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 68 ms
+
+Summary for oldschool55.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool56.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 70 ms
+
+Summary for oldschool57.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 70 ms
+
+Summary for oldschool74.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 66 ms
+
+Summary for oldschool78.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool120.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool121.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
+
+Summary for oldschool122.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 66 ms
+
+Summary for oldschool123.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool128.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool129.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
+
+Summary for oldschool141.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 73 ms
+
+Summary for oldschool143.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 69 ms
+
+Summary for oldschool144.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 68 ms
+
+Summary for oldschool145.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 68 ms
+
+Summary for oldschool146.runescape.com at Sat Oct  5 19:30:04 2024:
+Final RTT: 67 ms
